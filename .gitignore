@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+
+# Node.js
+node_modules/
+.env
+
+# IDE files
+.vscode/
+.idea/
